@@ -1,0 +1,13 @@
+{
+    "name": "alexchoisy/authenticator-generator",
+    "type": "project",
+    "description": "ArengiBox application",
+    "version": "0.0.1",
+    "authors": [
+        {"name": "Alexandre CHOISY", "email": "choisy.alex@gmail.com"}
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "sonata-project/google-authenticator": "^1.1"
+    }
+}
